@@ -1,0 +1,12 @@
+/tmp:
+snap-private-tmp
+systemd-private-25823468c810499280f8251dbfbb2444-ModemManager.service-R8zhPg
+systemd-private-25823468c810499280f8251dbfbb2444-chrony.service-NRJjaR
+systemd-private-25823468c810499280f8251dbfbb2444-colord.service-kQlG7b
+systemd-private-25823468c810499280f8251dbfbb2444-fwupd.service-y7B8rU
+systemd-private-25823468c810499280f8251dbfbb2444-geoclue.service-W43aSy
+systemd-private-25823468c810499280f8251dbfbb2444-polkit.service-r8a3d2
+systemd-private-25823468c810499280f8251dbfbb2444-power-profiles-daemon.service-jAeiOi
+systemd-private-25823468c810499280f8251dbfbb2444-switcheroo-control.service-uqM560
+systemd-private-25823468c810499280f8251dbfbb2444-systemd-logind.service-mfOApX
+systemd-private-25823468c810499280f8251dbfbb2444-upower.service-wR36DI
