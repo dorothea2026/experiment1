@@ -1,0 +1,1 @@
+-e git+ssh://git@github.com/dorothea2026/experiment1.git@44b18d106aa2d39328fd7df90af9fcf5c6ad9fe9#egg=mypackage&subdirectory=hw3_practice/mypackage
