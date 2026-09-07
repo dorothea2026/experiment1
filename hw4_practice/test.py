@@ -1,0 +1,8 @@
+import os, sys
+
+
+def hello(name):
+    print("Hello", name)
+
+
+hello("world")
